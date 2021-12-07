@@ -19,3 +19,4 @@
 <em><strong>A cada dia, fazendo meu melhor dentro da qualidade de conhecimentos que já desenvolvi, enquanto ainda não desenvolvi conhecimentos mais especificos, para fazer melhor ainda.</stong></em> <br/>
 
 <em>"aspirantdev.front end"</em>🤓
+     
